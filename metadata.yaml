@@ -1,0 +1,38 @@
+_repo: Fiddler-s-farewell_73705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Speyer, Leonora
+    aliases:
+    - Speyer, Leonora von Stosch
+    - Von Stosch, Leonora
+    - Speyer, Mrs. Edgar
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '57190'
+    url: http://www.gutenberg.org/2009/agents/57190
+    wikipedia: https://en.wikipedia.org/wiki/Leonora_Speyer
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73705'
+  lccn: '26026413'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3407430
+pgterms:marc905: 20220506014138speyer
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Carol Brown, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlred A. Knopf, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: Fiddler's farewell
+url: http://www.gutenberg.org/ebooks/73705
