@@ -1,5 +1,8 @@
 _repo: Fiddler-s-farewell_73705
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73705-h/images/cover.jpg
 creator:
   author:
     agent_name: Speyer, Leonora
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57190
     wikipedia: https://en.wikipedia.org/wiki/Leonora_Speyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73705#Fiddler-s-farewell
 gutenberg_issued: '2024-05-26'
 gutenberg_type: Text
 identifiers:
